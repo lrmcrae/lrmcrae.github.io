@@ -1,4 +1,14 @@
-## Hi there 👋
+#About Me.
+
+## My Interests
+Crocheting
+Music
+Meal Prep
+Walking
+
+## Websites I Recommend
+[Spotify](https://www.spotify.com) I recommend using spotify over other music streaming platforms because there so many other things you listen to likr E-books and Podcasts, both informative and entertaining.
+[Reddit](https://www.reddit.com) In my free time I enjoy going on reddit and reading posts, there are so many interesting topics being discussed.
 
 <!--
 **lrmcrae/lrmcrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
