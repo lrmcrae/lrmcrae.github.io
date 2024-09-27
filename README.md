@@ -1,10 +1,7 @@
 #About Me.
 
 ## My Interests
-Crocheting
-Music
-Meal Prep
-Walking
+Crocheting, Music, Meal Prep, and Walking
 
 ## Websites I Recommend
 [Spotify](https://www.spotify.com) I recommend using spotify over other music streaming platforms because there so many other things you listen to likr E-books and Podcasts, both informative and entertaining.
